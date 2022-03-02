@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evidencia final</string>
+    <string name="roll_text">Roll</string>
+    <string name="entrar">Entrar</string>
+    <string name="fecha">Fecha:</string>
+    <string name="juego_x">Juego #X</string>
+</resources>
